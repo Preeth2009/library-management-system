@@ -17,3 +17,6 @@ Concepts Used
 - Conditional Statements
 
 This project was created to practice Python programming and problem-solving.
+
+# Author
+Preetham G
